@@ -4,7 +4,7 @@ const usuariosGet = (req, res) => {
         msg: 'get API',
         q,
         nombre,
-        apikey,qq
+        apikey,
     })
 }
 const usuariosPost = (req, res) => {
